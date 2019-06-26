@@ -29,9 +29,9 @@ go build
 After building, just execute the binary.
 
 ```bash
-./reqecho
+./printreq
 ```
 
 ```bash
-./reqecho -host localhost -port 18222
+./printreq -host localhost -port 18222
 ```
